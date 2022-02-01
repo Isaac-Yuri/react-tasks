@@ -1,0 +1,20 @@
+.detalhes-tarefa-container {
+    margin-top: 10px;
+    background-color: #444;
+    border-radius: 5px;
+    padding: 10px 20px 20px 20px; 
+}
+
+.botao-voltar-container {
+    width: 30%;
+}
+
+.detalhes-tarefa {
+    color: white;
+    margin-top: 5px;
+}
+
+.titulo-tarefa-detalhes {
+    color: chartreuse;
+    font-weight: bold;
+}

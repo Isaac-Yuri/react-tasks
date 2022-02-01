@@ -1,0 +1,22 @@
+.add-tarefa-container {
+  margin: 10px 0;
+  width: 100%;
+  display: flex;
+}
+
+.add-tarefa-input {
+    height: 40px;
+    border: none;
+    font-size: 12pt;
+    background-color: #444;
+    color: #eee;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 4px;
+    flex: 2;
+}
+
+.add-tarefa-botao-container {
+  margin-left: 6px;
+  flex: 1;
+}
