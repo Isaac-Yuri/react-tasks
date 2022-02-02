@@ -7,7 +7,7 @@ function Tarefa({ tarefa, handleTarefaClick, handleDeletarTarefa }) {
   const navegacao = useNavigate();
 
   const handleTarefaDetalhesClick = () => {
-    navegacao(`/${tarefa.titulo}`)
+    navegacao(`${tarefa.titulo}`)
   }
 
   return (

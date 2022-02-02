@@ -52,7 +52,7 @@ function App() {
       <div className='container'>
         <Header text='Minhas Tarefas'/>
         <Routes>
-          <Route path="/" element={
+          <Route path="/react-tasks/" element={
             <>
               <AddTarefa handleTarefaAdicionar={handleTarefaAdicionar} />
               <Tarefas 
@@ -62,7 +62,7 @@ function App() {
               />
             </>
           } /> 
-          <Route path='/:tarefaTitulo' element={<TarefaDetalhes />} />
+          <Route path='/react-tasks/:tarefaTitulo' element={<TarefaDetalhes />} />
         </Routes>
       </div>
     </BrowserRouter>
