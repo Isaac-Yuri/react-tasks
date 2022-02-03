@@ -7,7 +7,7 @@ function TarefaDetalhes() {
   const navegacao = useNavigate();
 
   const handleBotaoVoltarClick = () => {
-    navegacao('/react-tasks/')    
+    navegacao('/')    
   } 
   
   return (

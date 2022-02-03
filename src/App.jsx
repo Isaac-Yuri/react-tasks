@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { v4 as uuidv4 } from 'uuid';
-
 import Header from './components/Header';
 import Tarefas from './components/Tarefas';
 import AddTarefa from './components/AddTarefa';
@@ -52,7 +51,7 @@ function App() {
       <div className='container'>
         <Header text='Minhas Tarefas'/>
         <Routes>
-          <Route path="/react-tasks/" element={
+          <Route path="/" element={
             <>
               <AddTarefa handleTarefaAdicionar={handleTarefaAdicionar} />
               <Tarefas 
@@ -62,7 +61,7 @@ function App() {
               />
             </>
           } /> 
-          <Route path='/react-tasks/:tarefaTitulo' element={<TarefaDetalhes />} />
+          <Route path='/:tarefaTitulo' element={<TarefaDetalhes />} />
         </Routes>
       </div>
     </BrowserRouter>
