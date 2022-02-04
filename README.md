@@ -3,6 +3,9 @@
 </h1>
 
 <h2 align="center">App de tarefas desenvolvido em ReactJS.</h2>
+
+<br>
+
 <p align='center'>
     <img src="https://img.shields.io/github/license/Isaac-Yuri/react-tasks" />
     <img src="https://img.shields.io/static/v1?label=Yarn&message=1.22.11&color=pink" />
@@ -18,7 +21,7 @@
 
 <p align='center'><img src="./project-image.PNG"></p>
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias & Ferramentas
 
 - [ReactJS⚛️](https://pt-br.reactjs.org/)
     <li>
