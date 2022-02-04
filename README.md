@@ -24,6 +24,6 @@
 - [React⚛️](https://pt-br.reactjs.org/)
     <li>
     <a href="https://vitejs.dev/">
-    Vite.js <img style="width: 15px;" src="./vite-logo.png" />
+    Vite.js <img style="width: 15px;" src="https://vitejs.dev/logo.svg" />
     </a>
     </li>
