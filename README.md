@@ -19,9 +19,11 @@
 
 <br>
 
+<img src="./project-image.PNG">
+
 ### 🛠 Tecnologias
 
-- [React⚛️](https://pt-br.reactjs.org/)
+- [ReactJS⚛️](https://pt-br.reactjs.org/)
     <li>
     <a href="https://vitejs.dev/">
     Vite.js <img style="width: 15px;" src="https://vitejs.dev/logo.svg" />
