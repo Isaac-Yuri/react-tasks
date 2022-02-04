@@ -3,10 +3,10 @@
 </h1>
 
 <h2 align="center">App de tarefas desenvolvido em ReactJS.</h2>
-<div style="display: flex; justify-content: center; gap: 5px;">
+<p align='center'>
     <img src="https://img.shields.io/github/license/Isaac-Yuri/react-tasks" />
     <img src="https://img.shields.io/static/v1?label=Yarn&message=1.22.11&color=pink" />
-</div>
+</p>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<div style="margin: auto"><img style="margin:auto;" src="./project-image.PNG"></div>
+<p align='center'><img src="./project-image.PNG"></p>
 
 ### 🛠 Tecnologias
 
