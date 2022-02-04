@@ -2,7 +2,7 @@
     <a style="color: #61DAFB;" href="https://isaac-yuri.github.io/react-tasks/">React Tasks⚛️</a>
 </h1>
 
-<h2>Descrição: App de tarefas desenvolvido em ReactJS.</h2>
+<h2 align="center">App de tarefas desenvolvido em ReactJS.</h2>
 
 <br>
 
