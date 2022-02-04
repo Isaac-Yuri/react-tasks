@@ -3,12 +3,6 @@
 </h1>
 
 <h2 align="center">App de tarefas desenvolvido em ReactJS.</h2>
-<<<<<<< HEAD
-=======
-
-<br>
->>>>>>> b38cbc6e39cab9a73cca37fbe587ec651bf72551
-
 <div style="display: flex; justify-content: center; gap: 5px;">
     <img src="https://img.shields.io/github/license/Isaac-Yuri/react-tasks" />
     <img src="https://img.shields.io/static/v1?label=Yarn&message=1.22.11&color=pink" />
