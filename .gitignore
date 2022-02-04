@@ -6,3 +6,4 @@ dist-ssr
 vite.config.js
 yarn.lock
 deploy.sh
+vite-logo.png
