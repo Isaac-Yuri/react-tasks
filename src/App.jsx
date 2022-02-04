@@ -47,7 +47,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className='container'>
         <Header text='Minhas Tarefas'/>
         <Routes>
